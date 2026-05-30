@@ -1,0 +1,7 @@
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\bin\Debug\Ugly.exe.config
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\bin\Debug\Ugly.exe
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\bin\Debug\Ugly.pdb
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\obj\Debug\Ugly.csproj.AssemblyReference.cache
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\obj\Debug\Ugly.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\obj\Debug\Ugly.exe
+C:\Users\Роман\Desktop\Main\PC#\VS\Ugly\Ugly\obj\Debug\Ugly.pdb
